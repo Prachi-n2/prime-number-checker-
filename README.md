@@ -1,5 +1,3 @@
-# prime-number-checker-
-java script basic 
 # Prime Number Checker
 
 This project is a simple Prime Number Checker built using HTML, CSS, and JavaScript. The application allows users to input a number and check if it is a prime number.
@@ -20,3 +18,6 @@ This project is a simple Prime Number Checker built using HTML, CSS, and JavaScr
 1. Open `index.html` in a web browser.
 2. Input a number in the provided field.
 3. Click the "Check" button to see if the number is prime.
+
+# prime-number-checker-
+java script basic 
